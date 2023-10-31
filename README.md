@@ -33,7 +33,7 @@ This script simplifies the reconnaissance process by offering a unified interfac
 # How to Use
 Clone the repository or download the script.
 
-`git clone https://github.com/ullanginikhil/vira`
+`git clone https://github.com/ullanginikhil/vira.git`
 
 Run the script from the command line using Python:
 
