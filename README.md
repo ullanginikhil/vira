@@ -44,7 +44,7 @@ Run the script from the command line using Python:
 
 **Then select the tools for subdomain enumuraiton. You can select all, with spaces in between of two numbers (ex: 1 2 3):**
 
-![2](https://github.com/ullanginikhil/vira/assets/72622870/f26b636d-d5d7-4593-bdda-e338f5581970)
+![2](https://github.com/ullanginikhil/vira/assets/72622870/a5777602-a749-498b-b8c0-8ba3503e5975)
 
 **Then select the file names ypu want to combine for end result combined file:**
  
@@ -68,3 +68,4 @@ Run the script from the command line using Python:
 * The script utilizes several excellent open-source tools for subdomain enumeration, including those developed by <a href=https://github.com/tomnomnom>Tomnomnom</a>
 * Acknowledgments to the open-source community and contributors to the tools and libraries used in this script.
 * Special thanks to the developers of Nmap for creating a powerful network scanning tool.
+
