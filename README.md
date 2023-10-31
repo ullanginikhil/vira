@@ -27,14 +27,44 @@ Before using the script, users need to have the following dependencies and tools
 * Assetfinder
 * Python 3
 * httprobe
-* Python packages: Colorama and Requests</br>
+* Python packages: Colorama and Requests<br>
 This script simplifies the reconnaissance process by offering a unified interface for Nmap scanning and subdomain enumeration. It streamlines the collection of critical information for security assessments, ensuring a smoother and more efficient workflow.
 
 # How to Use
 Clone the repository or download the script.
 
-git clone https://github.com/ullanginikhil/vira
-
+`git clone https://github.com/ullanginikhil/vira`
 
 Run the script from the command line using Python:
 
+`python nmap_subdomain_enum.py`<br>
+**Simply choose the options for namp as mentioned below to use the tool:**
+
+![1](https://github.com/ullanginikhil/vira/assets/72622870/1eca1807-17b6-4f08-9493-3b25f246774e)
+
+**Then select the tools for subdomain enumuraiton. You can select all, with spaces in between of two numbers (ex: 1 2 3):**
+
+![2](https://github.com/ullanginikhil/vira/assets/72622870/f26b636d-d5d7-4593-bdda-e338f5581970)
+
+**Then select the file names ypu want to combine for end result combined file:**
+ 
+![3](https://github.com/ullanginikhil/vira/assets/72622870/d074be69-f469-41b3-bf1a-9e0645b7995b)
+
+
+**You can change the Wordlist by simpling changing this line in the script:** 
+
+![4](https://github.com/ullanginikhil/vira/assets/72622870/91aa9600-51e5-4ea2-aea4-b07f23c19908)
+
+
+**The output files are saved in a very systematic format as <filename_toolname>:**
+
+![5](https://github.com/ullanginikhil/vira/assets/72622870/08319692-d0f0-4c5e-8fd9-faa96851cefb)
+
+
+# Author
+* Nikhil Ullangi AKA Ncrypto.
+
+# Acknowledgments
+* The script utilizes several excellent open-source tools for subdomain enumeration, including those developed by <a href=https://github.com/tomnomnom>Tomnomnom</a>
+* Acknowledgments to the open-source community and contributors to the tools and libraries used in this script.
+* Special thanks to the developers of Nmap for creating a powerful network scanning tool.
