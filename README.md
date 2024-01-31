@@ -63,7 +63,7 @@ Run the script from the command line using Python:
 
 # Author
 * Nikhil Ullangi AKA Ncrypto.
-* Pranav Gaikwaid
+* Pranav Gaikwad
 
 # Acknowledgments
 * The script utilizes several excellent open-source tools for subdomain enumeration, including those developed by <a href=https://github.com/tomnomnom>Tomnomnom</a>
